@@ -1,0 +1,6 @@
+arduino_usb = 0,270,550,400
+arduino_io = 800,0,1650,150
+arduino_osc = 650,800,450,200
+arduino_con = 1100,1050,1350,350
+arduiono_power = 120,1350,550,340
+qr = 1680,460,430,400
