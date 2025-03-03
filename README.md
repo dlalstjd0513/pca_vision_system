@@ -3,7 +3,7 @@
 
 ## Main Function
     - PCA 종류 구분
-    - PCA 부품 미삽 판별
+    - PCA 부품 미삽(불량) 판별
 
 ##  System Specifications
 OS: Ubuntu 20.04  
